@@ -2,7 +2,7 @@
 
 Dark mode             |  Light mode
 :-------------------------:|:-------------------------:
-![](images/site-dark.png)  |  ![](images/site-light.png)
+![](images/dark.png)  |  ![](images/light.png)
 
 ## Setup
 
