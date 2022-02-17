@@ -1,0 +1,18 @@
+# Site settings
+title: Benjamin Jost
+description: Benjamin Jost | Personal website
+# baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://localhost:3000" # the base hostname & protocol for your site
+
+permalink: /:title/
+
+# User settings
+username: Benjamin Jost
+# user_description: description 
+# user_title: title
+
+google-analytics:
+  id: ""
+
+sass:
+    style: compressed
